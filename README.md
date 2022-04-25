@@ -1,5 +1,8 @@
 # 👋 Hi, I’m @Ullavs
 
+## Journey: 
+👩‍⚕️ Medical doctor who's changing careers since 2021 🔀 
+
 ## Interests:
 👀 I’m interested in coding, science, tennis, Formula 1 and dogs
 
@@ -14,4 +17,4 @@
 - [The UI Design Bootcamp, Scrimba](https://scrimba.com/certificate/uYPN6zcN/gdesignbootcamp)
 
 ## Portfolio:
-👉 Check my [personal website](https://ullavs.nl)
+👉 Check this page and my [personal website](https://ullavs.nl)
