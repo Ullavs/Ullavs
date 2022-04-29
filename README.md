@@ -17,4 +17,4 @@
 - [The UI Design Bootcamp, Scrimba](https://scrimba.com/certificate/uYPN6zcN/gdesignbootcamp)
 
 ## Portfolio:
-👉 Check this page and my [personal website](https://ullavs.nl)
+👉 Feel free to check out [my repositories](https://github.com/Ullavs?tab=repositories) and my [personal website](https://ullavs.nl)
