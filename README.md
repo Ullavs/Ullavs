@@ -15,6 +15,7 @@
 - [Responsive Web Design, freeCodeCamp](https://www.freecodecamp.org/certification/ullavs/responsive-web-design)
 - [JavaScript Algorithms and Data Structures, freeCodeCamp](https://www.freecodecamp.org/certification/ullavs/javascript-algorithms-and-data-structures)
 - [The UI Design Bootcamp, Scrimba](https://scrimba.com/certificate/uYPN6zcN/gdesignbootcamp)
+- [The JavaScript Bootcamp, Scrimba](https://scrimba.com/certificate/uYPN6zcN/gjavascript)
 
 ## Portfolio:
 👉 Feel free to check out [my repositories](https://github.com/Ullavs?tab=repositories) and my [personal website](https://ullavs.nl)
