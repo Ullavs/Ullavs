@@ -18,4 +18,4 @@
 - [The JavaScript Bootcamp, Scrimba](https://scrimba.com/certificate/uYPN6zcN/gjavascript)
 
 ## Portfolio:
-👉 Feel free to check out [my repositories](https://github.com/Ullavs?tab=repositories) and my [personal website](https://ullavs.nl)
+👉 Feel free to check out [my repositories](https://github.com/Ullavs?tab=repositories), my [personal website](https://ullavs.nl) and my [Frontend Mentor page](https://www.frontendmentor.io/profile/ullavs)
