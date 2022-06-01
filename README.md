@@ -20,13 +20,13 @@
 
 ### Repositories:
 <details>
-  <summary>Scrimba projects</summary>
+  <summary>My Scrimba solo projects</summary>
   <blockquote>
     <ul>
       <li><a href="https://github.com/Ullavs/travel-journal">Travel Journal (React)</a></li>
       <li><a href="https://github.com/Ullavs/digital-business-card">Digital business card (React)</a></li>
       <li><a href="https://github.com/Ullavs/unit-converter">Unit converter</a></li>
-      <li><a href="https://github.com/Ullavs/password-generator">Password generator</a>4</li>
+      <li><a href="https://github.com/Ullavs/password-generator">Password generator</a></li>
       <li><a href="https://github.com/Ullavs/invoice-creator">Invoice creator</a></li>
       <li><a href="https://github.com/Ullavs/color-scheme-generator">Color scheme generator</a></li>
       <li><a href="https://github.com/Ullavs/movie-watchlist">Movie watchlist</a></li>
@@ -35,9 +35,13 @@
 </details> 
 
 <details>
-  <summary>Frontend mentor challenges</summary>
+  <summary>My Frontend mentor challenges</summary>
   <blockquote>
-    <a href="https://github.com/Ullavs/frontend-mentor">Frontend mentor challenges</a>
+     <ul>
+      <li><a href="https://github.com/Ullavs/frontend-mentor/tree/main/001">Challenge 1</a></li>
+      <li><a href="https://github.com/Ullavs/frontend-mentor/tree/main/002">Challenge 2</a></li>
+      <li><a href="https://github.com/Ullavs/frontend-mentor/tree/main/003">Challenge 3</a></li>
+      <li><a href="https://github.com/Ullavs/frontend-mentor/tree/main/004">Challenge 4</a></li>
   </blockquote>
 </details> 
 
