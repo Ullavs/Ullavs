@@ -46,10 +46,20 @@
 </details> 
 
 <details>
-  <summary>Work</summary>
+  <summary>Work for clients</summary>
   <blockquote>
     <ul>
       <li><a href="https://github.com/Ullavs/saritlaufer.nl">Website for a friends business</a></li>
+    </ul>
+  </blockquote>
+</details>
+  
+  <details>
+  <summary>Projects built with React</summary>
+  <blockquote>
+     <ul>
+      <li><a href="https://github.com/Ullavs/travel-journal">Travel Journal</a></li>
+      <li><a href="https://github.com/Ullavs/digital-business-card">Digital business card</a></li>
     </ul>
   </blockquote>
 </details>
