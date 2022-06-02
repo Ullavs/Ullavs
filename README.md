@@ -71,6 +71,5 @@
 👉 Feel free to check out my [personal website](https://ullavs.nl)
   
 #### Stats:
-  [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ullavs&show_icons=true&theme=codeSTACKr&hide=prs,issues,contribs)](https://github.com/anuraghazra/github-readme-stats) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ullavs&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-
+  [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ullavs&show_icons=true&theme=codeSTACKr&hide=prs,issues,contribs)](https://github.com/anuraghazra/github-readme-stats)
 
