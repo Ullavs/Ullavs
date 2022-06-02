@@ -69,7 +69,3 @@
 👉 Feel free to check out my [personal website](https://ullavs.nl)  
   &  
 📩 Don't hesitate to contact me! 
-  
-#### Stats:
-  [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ullavs&show_icons=true&theme=codeSTACKr&hide=prs,issues,contribs)](https://github.com/anuraghazra/github-readme-stats)
-
