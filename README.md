@@ -4,7 +4,7 @@
 👩‍⚕️ Medical doctor who's changing careers since 2021 🔀 
 
 ## Interests:
-👀 I’m interested in coding, science, tennis, Formula 1 and dogs
+👀 I’m interested in coding, science, TV series, tennis, Formula 1 and dogs
 
 ## Learning:
 🌱 I’m currently learning **JavaScript & React** via [Scrimba](https://scrimba.com) & [LOI](https://www.loi.nl/n-3374-hbo-programmeren-in-javascript)
@@ -59,6 +59,16 @@
     </ul>
   </blockquote>
 </details>
+
+<details>
+  <summary>Freestyle projects</summary>
+  <blockquote>
+    <ul>
+      <li><a href="#">Memory Game</a></li>
+      <li><a href="#">Calculator</a></li>
+    </ul>
+  </blockquote>
+</details> 
 
 ## Certificates:
 - [Introduction to coding, SheCodes](https://www.shecodes.io/certificates/af3c717e8a247f24835e4a2ca1dd795c)
