@@ -64,7 +64,7 @@
   <summary>Freestyle projects</summary>
   <blockquote>
     <ul>
-      <li><a href="#">Memory Game</a></li>
+      <li><a href="https://github.com/Ullavs/memory">Memory Game</a></li>
       <li><a href="#">Calculator</a></li>
     </ul>
   </blockquote>
