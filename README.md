@@ -65,7 +65,7 @@
   <blockquote>
     <ul>
       <li><a href="https://github.com/Ullavs/memory">Memory Game</a></li>
-      <li><a href="#">Calculator</a></li>
+      <li><a href="https://github.com/Ullavs/calculator">Calculator</a></li>
     </ul>
   </blockquote>
 </details> 
