@@ -17,6 +17,7 @@
   <summary>My Scrimba solo projects</summary>
   <blockquote>
     <ul>
+      <li><a href="https://github.com/Ullavs/quizzical">Quizzical (React) - IN PROGRESS</a></li>
       <li><a href="https://github.com/Ullavs/travel-journal">Travel Journal (React)</a></li>
       <li><a href="https://github.com/Ullavs/digital-business-card">Digital business card (React)</a></li>
       <li><a href="https://github.com/Ullavs/unit-converter">Unit converter</a></li>
@@ -54,6 +55,7 @@
   <summary>Projects built with React</summary>
   <blockquote>
      <ul>
+      <li><a href="https://github.com/Ullavs/quizzical">Quizzical (React) - IN PROGRESS</a></li>
       <li><a href="https://github.com/Ullavs/travel-journal">Travel Journal</a></li>
       <li><a href="https://github.com/Ullavs/digital-business-card">Digital business card</a></li>
     </ul>
