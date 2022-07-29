@@ -15,6 +15,7 @@
 ## Repositories:
 <details>
   <summary>My Scrimba solo projects</summary>
+  <p>Throughout the <a href="https://scrimba.com/learn/frontend">Scrimba front-end developer career path</a> you are encouraged to do multiple solo projects. Solo means there will be no guidance or solution to the challenge; only the design and requirements of the projects are given.</p>
   <blockquote>
     <ul>
       <li><a href="https://github.com/Ullavs/quizzical">Quizzical (React) - IN PROGRESS</a></li>
@@ -31,6 +32,7 @@
 
 <details>
   <summary>My Frontend mentor challenges</summary>
+  <p><a href="https://www.frontendmentor.io/">Frontend Mentor</a> provides front-end challenges that include professional web designs. These allow you to practice building websites in a realistic workflow. Taking these challenges will help you improve your skills, gain experience creating websites, and build up an incredible project portfolio.</p>
   <blockquote>
      <ul>
       <li><a href="https://github.com/Ullavs/frontend-mentor/tree/main/001">Challenge 1</a></li>
@@ -39,6 +41,7 @@
       <li><a href="https://github.com/Ullavs/frontend-mentor/tree/main/004">Challenge 4</a></li>
       <li><a href="https://github.com/Ullavs/frontend-mentor/tree/main/005">Challenge 5</a></li>
       <li><a href="https://github.com/Ullavs/frontend-mentor/tree/main/006">Challenge 6</a></li>
+      <li><a href="https://github.com/Ullavs/frontend-mentor/tree/main/007">Challenge 7</a></li>
   </blockquote>
 </details> 
 
