@@ -32,7 +32,7 @@
 
 <details>
   <summary>My Frontend mentor challenges</summary>
-  <p><a href="https://www.frontendmentor.io/">Frontend Mentor</a> provides front-end challenges that include professional web designs. These allow you to practice building websites in a realistic workflow. Taking these challenges will help you improve your skills, gain experience creating websites, and build up an incredible project portfolio.</p>
+  <p><a href="https://www.frontendmentor.io/">Frontend Mentor</a> provides front-end challenges that include professional web designs. These allow you to practice building websites in a realistic workflow. Taking these challenges will help you improve your skills, gain experience creating websites, and build up a project portfolio.</p>
   <blockquote>
      <ul>
       <li><a href="https://github.com/Ullavs/frontend-mentor/tree/main/001">Challenge 1</a></li>
