@@ -1,7 +1,7 @@
 # 👋 Hi, I’m @Ullavs
 
 ## Journey: 
-👩‍⚕️ Medical doctor who's changing careers since 2021 🔀 
+👩‍⚕️ Medical doctor who's changing careers since 2021 🔀  
 👩‍💼 Starting my job as junior front-end developer in October 2022 
 
 ## Interests:
