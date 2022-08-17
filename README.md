@@ -8,8 +8,7 @@
 👀 I’m interested in coding, science, TV series, tennis, Formula 1 and dogs
 
 ## Learning:
-🌱 I’m currently learning **JavaScript & React** via [Scrimba](https://scrimba.com) & [LOI](https://www.loi.nl/n-3374-hbo-programmeren-in-javascript)
-
+🌱 I’m currently learning **JavaScript & React.js** via [Scrimba](https://scrimba.com)
 ### Skills:
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)  ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)  ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)  ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 
@@ -76,12 +75,14 @@
   </blockquote>
 </details> 
 
-## Certificates:
-- [Introduction to coding, SheCodes](https://www.shecodes.io/certificates/af3c717e8a247f24835e4a2ca1dd795c)
-- [Responsive Web Design, freeCodeCamp](https://www.freecodecamp.org/certification/ullavs/responsive-web-design)
-- [JavaScript Algorithms and Data Structures, freeCodeCamp](https://www.freecodecamp.org/certification/ullavs/javascript-algorithms-and-data-structures)
-- [Learn UI Design, Scrimba](https://scrimba.com/certificate/uYPN6zcN/gdesignbootcamp)
-- [JavaScript deep dive, Scrimba](https://scrimba.com/certificate/uYPN6zcN/gjavascript)
+## Certificates / Education:
+- **2021**[Introduction to coding, SheCodes](https://www.shecodes.io/certificates/af3c717e8a247f24835e4a2ca1dd795c)
+- **2021**[Responsive Web Design, freeCodeCamp](https://www.freecodecamp.org/certification/ullavs/responsive-web-design)
+- **2021**[JavaScript Algorithms and Data Structures, freeCodeCamp](https://www.freecodecamp.org/certification/ullavs/javascript-algorithms-and-data-structures)
+- **2022**[Learn UI Design, Scrimba](https://scrimba.com/certificate/uYPN6zcN/gdesignbootcamp)
+- **2022**[JavaScript deep dive, Scrimba](https://scrimba.com/certificate/uYPN6zcN/gjavascript)
+- **2022** [JavaScript Specialist Exam 1D0-735](https://www.ciwcertified.com/ciw-certifications/web-development-series/javascript-specialist) after doing all the course work of the [LOI JavaScript study](https://www.loi.nl/n-3374-hbo-programmeren-in-javascript)
+ 
   
 ## Portfolio:
 👉 Feel free to check out my [personal website](https://ullavs.nl)  
