@@ -81,7 +81,7 @@
 - **2021** [JavaScript Algorithms and Data Structures, freeCodeCamp](https://www.freecodecamp.org/certification/ullavs/javascript-algorithms-and-data-structures)
 - **2022** [Learn UI Design, Scrimba](https://scrimba.com/certificate/uYPN6zcN/gdesignbootcamp)
 - **2022** [JavaScript deep dive, Scrimba](https://scrimba.com/certificate/uYPN6zcN/gjavascript)
-- **2022** [JavaScript Specialist Exam 1D0-735](https://www.ciwcertified.com/ciw-certifications/web-development-series/javascript-specialist) after doing all the course work of the [LOI JavaScript study](https://www.loi.nl/n-3374-hbo-programmeren-in-javascript)
+- **2022** [JavaScript Specialist Exam 1D0-735, CIW](https://www.ciwcertified.com/ciw-certifications/web-development-series/javascript-specialist) after finishing all the course work of the [LOI JavaScript study](https://www.loi.nl/n-3374-hbo-programmeren-in-javascript)
  
   
 ## Portfolio:
