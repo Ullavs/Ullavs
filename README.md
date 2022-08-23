@@ -42,7 +42,7 @@
       <li><a href="https://github.com/Ullavs/frontend-mentor/tree/main/005">Challenge 5</a></li>
       <li><a href="https://github.com/Ullavs/frontend-mentor/tree/main/006">Challenge 6</a></li>
       <li><a href="https://github.com/Ullavs/frontend-mentor/tree/main/007">Challenge 7</a></li>
-      <li><a href="https://github.com/Ullavs/frontend-mentor/tree/main/008">Challenge 8 - IN PROGRES</a></li>
+      <li><a href="https://github.com/Ullavs/frontend-mentor/tree/main/008">Challenge 8 - IN PROGRESS</a></li>
   </blockquote>
 </details> 
 
