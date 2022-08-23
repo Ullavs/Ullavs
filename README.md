@@ -21,11 +21,11 @@
       <li><a href="https://github.com/Ullavs/quizzical">Quizzical (React) - IN PROGRESS</a></li>
       <li><a href="https://github.com/Ullavs/travel-journal">Travel Journal (React)</a></li>
       <li><a href="https://github.com/Ullavs/digital-business-card">Digital business card (React)</a></li>
+      <li><a href="https://github.com/Ullavs/movie-watchlist">Movie watchlist</a></li>
       <li><a href="https://github.com/Ullavs/unit-converter">Unit converter</a></li>
       <li><a href="https://github.com/Ullavs/password-generator">Password generator</a></li>
       <li><a href="https://github.com/Ullavs/invoice-creator">Invoice creator</a></li>
       <li><a href="https://github.com/Ullavs/color-scheme-generator">Color scheme generator</a></li>
-      <li><a href="https://github.com/Ullavs/movie-watchlist">Movie watchlist</a></li>
     </ul>
   </blockquote>
 </details> 
@@ -42,6 +42,7 @@
       <li><a href="https://github.com/Ullavs/frontend-mentor/tree/main/005">Challenge 5</a></li>
       <li><a href="https://github.com/Ullavs/frontend-mentor/tree/main/006">Challenge 6</a></li>
       <li><a href="https://github.com/Ullavs/frontend-mentor/tree/main/007">Challenge 7</a></li>
+      <li><a href="https://github.com/Ullavs/frontend-mentor/tree/main/008">Challenge 8</a></li>
   </blockquote>
 </details> 
 
