@@ -67,11 +67,12 @@
 </details>
 
 <details>
-  <summary>Freestyle projects</summary>
+  <summary>Other projects</summary>
   <blockquote>
     <ul>
       <li><a href="https://github.com/Ullavs/memory">Memory Game</a></li>
       <li><a href="https://github.com/Ullavs/calculator">Calculator</a></li>
+      <li><a href="https://github.com/Ullavs/dashboard">Dashboard</a></li>
     </ul>
   </blockquote>
 </details> 
