@@ -18,7 +18,7 @@
   <p>Throughout the <a href="https://scrimba.com/learn/frontend">Scrimba front-end developer career path</a> you are encouraged to do multiple solo projects. Solo means there will be no guidance or solution to the challenge; only the design and requirements of the projects are given.</p>
   <blockquote>
     <ul>
-      <li><a href="https://github.com/Ullavs/quizzical">Quizzical (React) - IN PROGRESS</a></li>
+      <li><a href="https://github.com/Ullavs/quizzical">Quizzical (React)</a></li>
       <li><a href="https://github.com/Ullavs/travel-journal">Travel Journal (React)</a></li>
       <li><a href="https://github.com/Ullavs/digital-business-card">Digital business card (React)</a></li>
       <li><a href="https://github.com/Ullavs/movie-watchlist">Movie watchlist</a></li>
@@ -59,7 +59,7 @@
   <summary>Projects built with React</summary>
   <blockquote>
      <ul>
-      <li><a href="https://github.com/Ullavs/quizzical">Quizzical- IN PROGRESS</a></li>
+      <li><a href="https://github.com/Ullavs/quizzical">Quizzical</a></li>
       <li><a href="https://github.com/Ullavs/travel-journal">Travel Journal</a></li>
       <li><a href="https://github.com/Ullavs/digital-business-card">Digital business card</a></li>
     </ul>
