@@ -93,6 +93,7 @@
 - **2022** [Learn UI Design, Scrimba](https://scrimba.com/certificate/uYPN6zcN/gdesignbootcamp)
 - **2022** [JavaScript deep dive, Scrimba](https://scrimba.com/certificate/uYPN6zcN/gjavascript)
 - **2022** [JavaScript Specialist Exam 1D0-735, CIW](https://cp.certmetrics.com/ciwcerts/en/public/verify/credential/f9947a241dd14a6eb79b490ee577f58b) after finishing all the course work of the [LOI JavaScript study](https://www.loi.nl/n-3374-hbo-programmeren-in-javascript)
+- **2022** [The Frontend Developer Career Path, Scrimba](https://scrimba.com/certificate/uYPN6zcN/gfrontend)
  
   
 ## Portfolio:
