@@ -59,6 +59,7 @@
   <summary>Projects built with React</summary>
   <blockquote>
      <ul>
+       <li><a href="https://github.com/Ullavs/rulespadel">Rules padel - IN PROGRESS</a></li> 
       <li><a href="https://github.com/Ullavs/quizzical">Quizzical</a></li>
       <li><a href="https://github.com/Ullavs/travel-journal">Travel Journal</a></li>
       <li><a href="https://github.com/Ullavs/digital-business-card">Digital business card</a></li>
