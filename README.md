@@ -68,12 +68,21 @@
 </details>
 
 <details>
-  <summary>Other projects</summary>
+  <summary>Projects with Vanilla JS</summary>
   <blockquote>
     <ul>
       <li><a href="https://github.com/Ullavs/memory">Memory Game</a></li>
       <li><a href="https://github.com/Ullavs/calculator">Calculator</a></li>
       <li><a href="https://github.com/Ullavs/dashboard">Dashboard</a></li>
+    </ul>
+  </blockquote>
+</details> 
+
+<details>
+  <summary>Vue</summary>
+  <blockquote>
+    <ul>
+      <li><a href="https://github.com/Ullavs/vue-playground">Vue Playground</a></li>
     </ul>
   </blockquote>
 </details> 
