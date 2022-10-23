@@ -2,7 +2,7 @@
 
 ## Journey: 
 👩‍⚕️ Former medical doctor who's changing careers since 2021 🔀  
-👩‍💼 Started my job as junior front-end developer in October 2022 🚀
+👩‍💼 Started my job as junior front-end developer in October 2022 🚀 (using GitLab there, activity on this account consists only of private projects)
 
 ## Interests:
 👀 I’m interested in coding, science, TV series, tennis, Formula 1 and dogs
