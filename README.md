@@ -1,16 +1,17 @@
 # 👋 Hi, I’m @Ullavs
 
 ## Journey: 
-👩‍⚕️ Former medical doctor who's changing careers since 2021 🔀  
-👩‍💼 Started my job as junior front-end developer in October 2022 🚀 (using GitLab there, activity on this account consists only of private projects)
+👩‍⚕️ Former medical doctor who changed careers since 2021 🔀  
+👩‍💼 Started my job as junior front-end developer in October 2022 🚀 (company uses GitLab, activity on this account consists only of private projects)
 
 ## Interests:
 👀 I’m interested in coding, science, TV series, tennis, Formula 1 and dogs
 
 ## Learning:
-🌱 I’m currently learning more about **JavaScript, React.js, Vue, TypeScript, Jest testing & Cypress testing**
+🌱 I’m currently learning more about **JavaScript, React.js, TypeScript, Jest testing & Cypress testing**
+
 ### Skills:
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)  ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)  ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)  ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)  ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white)
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)  ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)  ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)  ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)  ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white) 
 
 ## Repositories:
 <details>
@@ -74,15 +75,6 @@
       <li><a href="https://github.com/Ullavs/memory">Memory Game</a></li>
       <li><a href="https://github.com/Ullavs/calculator">Calculator</a></li>
       <li><a href="https://github.com/Ullavs/dashboard">Dashboard</a></li>
-    </ul>
-  </blockquote>
-</details> 
-
-<details>
-  <summary>Vue</summary>
-  <blockquote>
-    <ul>
-      <li><a href="https://github.com/Ullavs/vue-playground">Vue Playground</a></li>
     </ul>
   </blockquote>
 </details> 
