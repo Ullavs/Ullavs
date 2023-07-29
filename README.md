@@ -97,8 +97,7 @@
 - **2022** [JavaScript Specialist Exam 1D0-735, CIW](https://cp.certmetrics.com/ciwcerts/en/public/verify/credential/f9947a241dd14a6eb79b490ee577f58b) after finishing all the course work of the [LOI JavaScript study](https://www.loi.nl/n-3374-hbo-programmeren-in-javascript)
 - **2022** [The Frontend Developer Career Path, Scrimba](https://scrimba.com/certificate/uYPN6zcN/gfrontend)
 - **2022** [The Vue Bootcamp, Scrimba](https://scrimba.com/certificate/uYPN6zcN/gvue)
-- **2023** 
- 
+- **2023** [The Ultimate Redux Course 2023, Udemy](https://www.udemy.com/certificate/UC-1835230b-3531-4d2d-aff3-a313efc0230f/)
   
 ## Portfolio:
 👉 Feel free to check out my [personal website](https://ullavs.nl)  
