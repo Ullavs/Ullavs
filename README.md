@@ -79,15 +79,6 @@
   </blockquote>
 </details> 
 
-<details>
-  <summary>TypeScript</summary>
-  <blockquote>
-    <ul>
-      <li><a href="https://github.com/Ullavs/typescript">TypeScript practice repo</a></li>
-    </ul>
-  </blockquote>
-</details> 
-
 ## Certificates / Education:
 - **2021** [Introduction to coding](https://www.shecodes.io/certificates/af3c717e8a247f24835e4a2ca1dd795c) @ [SheCodes](https://www.shecodes.io/)
 - **2021** [Responsive Web Design](https://www.freecodecamp.org/certification/ullavs/responsive-web-design) @ [freeCodeCamp](https://www.freecodecamp.org/)
