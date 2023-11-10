@@ -89,18 +89,18 @@
 </details> 
 
 ## Certificates / Education:
-- **2021** [Introduction to coding, SheCodes](https://www.shecodes.io/certificates/af3c717e8a247f24835e4a2ca1dd795c)
-- **2021** [Responsive Web Design, freeCodeCamp](https://www.freecodecamp.org/certification/ullavs/responsive-web-design)
-- **2021** [JavaScript Algorithms and Data Structures, freeCodeCamp](https://www.freecodecamp.org/certification/ullavs/javascript-algorithms-and-data-structures)
-- **2022** [Learn UI Design, Scrimba](https://scrimba.com/certificate/uYPN6zcN/gdesignbootcamp)
-- **2022** [JavaScript deep dive, Scrimba](https://scrimba.com/certificate/uYPN6zcN/gjavascript)
+- **2021** [Introduction to coding](https://www.shecodes.io/certificates/af3c717e8a247f24835e4a2ca1dd795c) @ [SheCodes](https://www.shecodes.io/)
+- **2021** [Responsive Web Design](https://www.freecodecamp.org/certification/ullavs/responsive-web-design) @ [freeCodeCamp](https://www.freecodecamp.org/)
+- **2021** [JavaScript Algorithms and Data Structures](https://www.freecodecamp.org/certification/ullavs/javascript-algorithms-and-data-structures) @ [freeCodeCamp](https://www.freecodecamp.org/)
+- **2022** [Learn UI Design](https://scrimba.com/certificate/uYPN6zcN/gdesignbootcamp) @ [Scrimba](https://scrimba.com/)
+- **2022** [JavaScript deep dive](https://scrimba.com/certificate/uYPN6zcN/gjavascript) @ [Scrimba](https://scrimba.com/)
 - **2022** [JavaScript Specialist Exam 1D0-735, CIW](https://cp.certmetrics.com/ciwcerts/en/public/verify/credential/f9947a241dd14a6eb79b490ee577f58b) after finishing all the course work of the [LOI JavaScript study](https://www.loi.nl/n-3374-hbo-programmeren-in-javascript)
-- **2022** [The Frontend Developer Career Path, Scrimba](https://scrimba.com/certificate/uYPN6zcN/gfrontend)
-- **2022** [The Vue Bootcamp, Scrimba](https://scrimba.com/certificate/uYPN6zcN/gvue)
-- **2023** [The Ultimate Redux Course 2023, Udemy](https://www.udemy.com/certificate/UC-1835230b-3531-4d2d-aff3-a313efc0230f/)
-- **2023** [Mastering TypeScript - 2023 Edition, Udemy](https://www.udemy.com/certificate/UC-00472fe8-5fde-4f15-8138-b58a5d39d3af/)
-- **2023** [Best practices & advanced TypeScript tips for React devs, Udemy](https://www.udemy.com/certificate/UC-24b2fdac-8d35-427a-8fe2-8684d2d70a90/)
-- **2023** [JavaScript Unit Testing - The Practical Guide](https://www.udemy.com/certificate/UC-79d9f769-a4be-43d2-858c-85943d512568/)
+- **2022** [The Frontend Developer Career Path](https://scrimba.com/certificate/uYPN6zcN/gfrontend) @ [Scrimba](https://scrimba.com/)
+- **2022** [The Vue Bootcamp](https://scrimba.com/certificate/uYPN6zcN/gvue) @ [Scrimba](https://scrimba.com/)
+- **2023** [The Ultimate Redux Course 2023](https://www.udemy.com/certificate/UC-1835230b-3531-4d2d-aff3-a313efc0230f/) @ [Udemy](https://www.udemy.com/)
+- **2023** [Mastering TypeScript - 2023 Edition](https://www.udemy.com/certificate/UC-00472fe8-5fde-4f15-8138-b58a5d39d3af/) @ [Udemy](https://www.udemy.com/)
+- **2023** [Best practices & advanced TypeScript tips for React devs](https://www.udemy.com/certificate/UC-24b2fdac-8d35-427a-8fe2-8684d2d70a90/) @ [Udemy](https://www.udemy.com/)
+- **2023** [JavaScript Unit Testing - The Practical Guide](https://www.udemy.com/certificate/UC-79d9f769-a4be-43d2-858c-85943d512568/) @ [Udemy](https://www.udemy.com/)
   
 ## Portfolio:
 👉 Feel free to check out my [personal website](https://ullavs.nl)  
