@@ -92,6 +92,7 @@
 - **2023** [Mastering TypeScript - 2023 Edition](https://www.udemy.com/certificate/UC-00472fe8-5fde-4f15-8138-b58a5d39d3af/) @ [Udemy](https://www.udemy.com/)
 - **2023** [Best practices & advanced TypeScript tips for React devs](https://www.udemy.com/certificate/UC-24b2fdac-8d35-427a-8fe2-8684d2d70a90/) @ [Udemy](https://www.udemy.com/)
 - **2023** [JavaScript Unit Testing - The Practical Guide](https://www.udemy.com/certificate/UC-79d9f769-a4be-43d2-858c-85943d512568/) @ [Udemy](https://www.udemy.com/)
+- **2024** [Git & GitHub - The Practical Guide](https://www.udemy.com/certificate/UC-465a6a04-dc15-4144-9d82-e9252a569600) @ [Udemy](https://www.udemy.com/)
   
 ## Portfolio:
 👉 Feel free to check out my [personal website](https://ullavs.nl)  
