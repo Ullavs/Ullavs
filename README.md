@@ -93,6 +93,8 @@
 - **2023** [Best practices & advanced TypeScript tips for React devs](https://www.udemy.com/certificate/UC-24b2fdac-8d35-427a-8fe2-8684d2d70a90/) @ [Udemy](https://www.udemy.com/)
 - **2023** [JavaScript Unit Testing - The Practical Guide](https://www.udemy.com/certificate/UC-79d9f769-a4be-43d2-858c-85943d512568/) @ [Udemy](https://www.udemy.com/)
 - **2024** [Git & GitHub - The Practical Guide](https://www.udemy.com/certificate/UC-465a6a04-dc15-4144-9d82-e9252a569600) @ [Udemy](https://www.udemy.com/)
+- **2024** [Professional Scrum Developer I](https://www.scrum.org/certificates/1092346) @ [Scrum.org](https://www.scrum.org/)
+- **2024** [DevOps, CI/CD(Continuous Integration/Delivery) for Beginners](https://udemy-certificate.s3.amazonaws.com/pdf/UC-3e22e31c-3482-41e3-9dbc-cacd3c4866f0.pdf) @ [Udemy](https://www.udemy.com/)
   
 ## Portfolio:
 👉 Feel free to check out my [personal website](https://ullavs.nl)  
