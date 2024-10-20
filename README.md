@@ -95,6 +95,7 @@
 - **2024** [Git & GitHub - The Practical Guide](https://www.udemy.com/certificate/UC-465a6a04-dc15-4144-9d82-e9252a569600) @ [Udemy](https://www.udemy.com/)
 - **2024** [Professional Scrum Developer I](https://www.scrum.org/certificates/1092346) @ [Scrum.org](https://www.scrum.org/)
 - **2024** [DevOps, CI/CD(Continuous Integration/Delivery) for Beginners](https://udemy-certificate.s3.amazonaws.com/pdf/UC-3e22e31c-3482-41e3-9dbc-cacd3c4866f0.pdf) @ [Udemy](https://www.udemy.com/)
+- **2024** [GitLab CI/CD: Pipelines, CI/CD and DevOps for Beginners](https://www.udemy.com/certificate/UC-ba68c978-987f-4395-bf65-443ac92f58d9/) @ [Udemy](https://www.udemy.com/)
   
 ## Portfolio:
 👉 Feel free to check out my [personal website](https://ullavs.nl)  
