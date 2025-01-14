@@ -97,7 +97,7 @@
 - **2024** [Professional Scrum Developer I](https://www.scrum.org/certificates/1092346) @ [Scrum.org](https://www.scrum.org/)
 - **2024** [DevOps, CI/CD(Continuous Integration/Delivery) for Beginners](https://www.udemy.com/certificate/UC-3e22e31c-3482-41e3-9dbc-cacd3c4866f0/) @ [Udemy](https://www.udemy.com/)
 - **2024** [GitLab CI/CD: Pipelines, CI/CD and DevOps for Beginners](https://www.udemy.com/certificate/UC-ba68c978-987f-4395-bf65-443ac92f58d9/) @ [Udemy](https://www.udemy.com/)
-- **2025** [Understnading APIs and RESTful APIs Crash Course](https://www.udemy.com/certificate/UC-36620a0c-c58e-4b01-af79-4c6babbdfd27/) @ [Udemy](https://www.udemy.com/)
+- **2025** [Understanding APIs and RESTful APIs Crash Course](https://www.udemy.com/certificate/UC-36620a0c-c58e-4b01-af79-4c6babbdfd27/) @ [Udemy](https://www.udemy.com/)
   
 ## Portfolio:
 👉 Feel free to check out my [personal website](https://ullavs.nl)  
